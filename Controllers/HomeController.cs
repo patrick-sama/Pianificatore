@@ -9,6 +9,8 @@ using Pianificatore.Models;
 
 namespace Pianificatore.Controllers
 {
+
+    //comment
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
